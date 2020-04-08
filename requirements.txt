@@ -9,3 +9,5 @@ python-engineio
 python-socketio
 six==1.11.0
 Werkzeug==0.14.1
+click==6.7
+gunicorn==19.7.1
